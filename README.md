@@ -5,12 +5,7 @@ A simple and stylish weather app that allows users to check the current weather 
 ## 🚀 Live Demo
 
 🔗 [Click here to view the live site]( https://meeluh1.github.io/Weather-Website/)  
-*(Replace the above link with your actual GitHub Pages link)*
 
-## 📸 Screenshots
-
-![Screenshot](./screenshot.png)  
-*(Optional: Add a screenshot of your site and save it as `screenshot.png` in your repo)*
 
 ## 🔧 Features
 
